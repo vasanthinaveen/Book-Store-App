@@ -1,0 +1,4 @@
+package com.example.book_store.dto;
+
+public record BookDto(String bookId,String bookName,String bookAuthor,String descriptpion) {
+}
