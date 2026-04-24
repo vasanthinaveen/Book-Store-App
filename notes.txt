@@ -27,3 +27,7 @@ Dependencies:
     dto talking to rest api
     these both talk to each other.
 
+spring security:
+
+download mongodb--create mongodb-database/db  folders in the same place where we extracted the mongodb.
+then run   ./mongod --dbpath ../../mongod-database/db
